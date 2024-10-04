@@ -4,6 +4,7 @@
     height: 100vh;
     width: 100vw;
     background-image: url("https://static.vecteezy.com/system/resources/thumbnails/008/023/852/small_2x/abstract-colorful-geometric-shape-background-modern-color-background-for-your-website-vector.jpg");
+    background-size:cover;
 }
 .card{
     width: 35rem;
